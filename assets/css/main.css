@@ -3951,6 +3951,15 @@ section,
   color: var(--contrast-color);
 }
 
+#send{
+  width: 130px;
+  height: 40px;
+  border: none;
+  border-radius: 5px;
+  background-color: #ff4d4f;
+  color: white;
+}
+
 @media (max-width: 991px) {
   .privacy .policy-sidebar {
     position: static;
